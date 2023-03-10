@@ -1,0 +1,22 @@
+
+@font-face {
+    font-family: 'digital-7' ;
+    src: url('../Fonts/Digital7-rg1mL.ttf');
+}
+.input {
+    height: 75px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 50px;
+    background-color: #0a0a23;
+    color:white;
+    text-shadow:1px 1px 1px  gray, 3px 3px 3px  darkgray;
+    padding: 11px 30px 11px 11px;
+    margin: 1px solid #888;
+    box-shadow: -1px 4px 1px 1px white;
+    font-family: 'digital-7';
+  }
